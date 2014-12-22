@@ -14,6 +14,9 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
- *= require_tree .
+ *= require global.css.scss
+ *= require properties.css.scss
+ *= require stations.css.scss
+ *= require welcome.css.scss
  *= require_self
  */
