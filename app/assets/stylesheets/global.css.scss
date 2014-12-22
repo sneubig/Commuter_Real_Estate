@@ -11,15 +11,8 @@ h1, h2, h3, h4, h5, h6{
 	margin: 0;
 }
 
-header{
-	height: 5%;
-	background-color: black;
+.clearfix {
+  overflow: auto;
+  zoom: 1;
 }
 
-.header-left{
-	color: white;
-}
-
-.header-right{
-	background-color: red;
-}
